@@ -8,7 +8,7 @@
 2. Run `install.bat`
 3. Make Discord bots and enable **Privileged Gateway Intents** at [Discord Developer Portal](https://discord.com/developers/applications)
 4. Copy the bot tokens of all of the ones you created and paste it in `tokens.txt`
-5. Run `main.py`
+5. Run `start.bat`
 
 **Note: The bots you created must be in the same server as your victim or it will not work**
 
@@ -16,7 +16,7 @@
 
 ### 📄 Features
 1. Bot command: `dm <user id> <message>` (It will then ask you how many messages you want to send per bot)
-2. Bots go online when you run `main.py`
+2. Bots go online when you run `start.bat`
 
 ---
 
